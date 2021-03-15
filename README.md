@@ -1,3 +1,3 @@
 # Bootstrap
 
-Use this template project to create your Bootstrap site.
+Use this template repo to create your Bootstrap site.
